@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private final int CAMERA_REQUEST_CODE = 1000;
     private final int CMERA_REQUEST_CHOOSE_CODE = 1001;
     private final int CAMERA_ZOOM_PHOTO = 1002;
+
     private boolean isHavePermission;
     private static final String TAG = "MainActivity";
     private String takePhotoPath;
